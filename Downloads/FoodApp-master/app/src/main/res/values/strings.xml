@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="appHelp">This is the help screen for the Food App</string>
+    <string name="appHelpExtra">Help</string>
+    <string name="appDisplayName">Food App</string>
+    <string name="appDesc">Log your favourite foods on our great free app!</string>
+    <string name="appMoreInfo">For more information about this app or to provide feedback please visit our website.</string>
+    <string name="appAbout">About Food App</string>
+
+    <string name="searchFoodLbl">Search Food\'s</string>
+    <string name="favouritesFoodLbl">Favourite Food\'s</string>
+    <string name="restuarantmaplbl">Map of Restuarants\'s</string>
+    <string name="addAFoodLbl">Food Check In</string>
+    <string name="addFoodBtnLbl">Add Food</string>
+    <string name="saveFoodBtn">Save Food</string>
+    <string name="recentlyViewedLbl">Foods</string>
+    <string name="FoodNameLbl">Name :</string>
+    <string name="RestuarantLbl">Restuarant :</string>
+    <string name="FoodPriceLbl">Price :</string>
+    <string name="FoodRatingLbl">Star Rating</string>
+    <string name="FoodDetailsLbl">Full Food Details</string>
+    <string name="informationLbl">Information</string>
+    <string name="emptyMessageLbl">You have no Foods\'s added, go have a food!</string>
+    <string name="deleteFoodLbl">Delete Food</string>
+
+
+    <string name="menuProfile">Profile</string>
+    <string name="menuLogout">Logout</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_navdrawer">Navdrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
